@@ -10,6 +10,6 @@ inferred from other (legitimately used) attributes or when a systematic disadvan
 
 _Cite: Tobler, C. (2008). Limits and potential of the concept of indirect discrimination. Directorate General for Employment, Social Affairs and Equal Opportunities, Unit G2, European Commission._
 
-**Dataset**: https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction/data
-**Method**: In short, the method involves first calculating best-estimate prices for all policyholders. Then, a weighted average price is applied across the protected variable to remove any potential discrimination.
-**_Note_**: These methods were specifically chosen to demonstrate that the discrimination-free pricing approach is model agnostic and can be applied across different types of models. 
+- **Dataset**: https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction/data
+- **Method**: In short, the method involves first calculating best-estimate prices for all policyholders. Then, a weighted average price is applied across the protected variable to remove any potential discrimination.
+- **_Note_**: These methods were specifically chosen to demonstrate that the discrimination-free pricing approach is model agnostic and can be applied across different types of models. 
